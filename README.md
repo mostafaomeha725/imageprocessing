@@ -16,10 +16,20 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# imageprocessing" 
 
-## Notes
-The `requirements.txt` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+# Image Processing App 🖼️
 
-```
+A Streamlit-based web application for performing image processing operations including grayscale conversion, edge detection, blurring, and histogram equalization.
+
+## Features
+- 🎨 Convert images to grayscale
+- 🔍 Canny Edge Detection
+- 🌫 Gaussian Blurring
+- 📊 Histogram Equalization
+- ⚡ Real-time processing
+- 🖼️ Side-by-side original/processed comparison
+
+## Installation
+```bash
+git clone https://github.com/mostafaomeha725/imageprocessing.git
+cd imageprocessing
 pip install -r requirements.txt
-```
