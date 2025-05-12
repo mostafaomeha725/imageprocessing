@@ -33,7 +33,7 @@ A Streamlit-based web application for performing image processing operations inc
 git clone https://github.com/mostafaomeha725/imageprocessing.git
 cd imageprocessing
 pip install -r requirements.txt
-
+```
 ## Usage
 Run the app:
 
