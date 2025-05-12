@@ -33,3 +33,19 @@ A Streamlit-based web application for performing image processing operations inc
 git clone https://github.com/mostafaomeha725/imageprocessing.git
 cd imageprocessing
 pip install -r requirements.txt
+
+## Usage
+Run the app:
+
+```
+streamlit run app.py
+```
+In your browser:
+
+- Upload an image (JPG/JPEG/PNG)
+
+- Select processing technique from sidebar
+
+- Adjust parameters using sliders
+
+- View instant results
